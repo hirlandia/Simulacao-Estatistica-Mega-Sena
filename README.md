@@ -47,9 +47,8 @@ Bash
     pip install pandas matplotlib
 
 # 🖥️ DADOS RETIRADOS
-## As Loterias - www.asloterias.com.br - Todos Resultados da Mega Sena
-## Este arquivo foi baixado no site www.asloterias.com.br no dia 15/01/2026
-## Visite o site para baixar a versão mais atualizada deste arquivo!
+### As Loterias - www.asloterias.com.br - Todos Resultados da Mega Sena
+###  Este arquivo foi baixado no site www.asloterias.com.br no dia 15/01/2026
+### Visite o site para baixar a versão mais atualizada deste arquivo!
 
-## TODOS RESULTADOS DA MEGA SENA POR ORDEM DE SORTEIO
-
+### TODOS RESULTADOS DA MEGA SENA POR ORDEM DE SORTEIO
