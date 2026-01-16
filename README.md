@@ -1,4 +1,4 @@
-# 🎲 Análise Estatística da Mega-Sena: De Dados Brutos a Insights Visuais
+<img width="1120" height="627" alt="image" src="https://github.com/user-attachments/assets/54df4106-c039-49b1-a981-91b54c425e02" /># 🎲 Análise Estatística da Mega-Sena: De Dados Brutos a Insights Visuais
 
 Neste projeto, desenvolvi um script em Python que analisa o histórico de sorteios da Mega-Sena. A proposta foi aplicar técnicas de **Data Analytics** para transformar um arquivo CSV com milhares de registros em informações visuais compreensíveis, identificando padrões de frequência e gerando simulações baseadas em dados reais.
 
@@ -24,6 +24,7 @@ Trabalhei com a **Matplotlib** para transformar números em impacto visual:
 * Criação de gráficos de barras para o **Top 10** números mais frequentes.
 * Customização de layout, títulos e eixos.
 * Inclusão de anotações dinâmicas (texto do jogo sugerido) dentro da figura do gráfico.
+<img width="1120" height="627" alt="image" src="https://github.com/user-attachments/assets/921727a6-aa15-497b-96f6-c6bd2519920b" />
 
 ### Estruturação de Projeto
 Mantive o foco em **Clean Code** e modularização:
@@ -44,3 +45,10 @@ Mantive o foco em **Clean Code** e modularização:
 2. **Instale as dependências:**
 Bash
     pip install pandas matplotlib
+
+## 🖥️ DADOS RETIRADOS
+# As Loterias - www.asloterias.com.br - Todos Resultados da Mega Sena
+# Este arquivo foi baixado no site www.asloterias.com.br no dia 15/01/2026
+# Visite o site para baixar a versão mais atualizada deste arquivo!
+
+# TODOS RESULTADOS DA MEGA SENA POR ORDEM DE SORTEIO
